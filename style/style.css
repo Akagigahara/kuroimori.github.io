@@ -1,0 +1,36 @@
+﻿body
+{
+    background-color: black;
+    color: lightblue;
+}
+
+nav 
+{
+    display:block;
+    position: relative;
+    overflow: hidden;
+    background-color: darkgreen;
+}
+
+nav a, nav a:hover, nav a:visited, nav a:visited:hover 
+{
+    margin-right: 5px;
+    float: left;
+    color: white;
+    background-color: black;
+    padding: 1px;
+    border: solid;
+}
+
+#fiverr-button
+{
+    background-color: black;
+    color: deepskyblue;
+}
+
+#logo
+{
+    background-color: darkgreen;
+    overflow: hidden;
+    float: right;
+}
